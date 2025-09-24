@@ -73,5 +73,3 @@ The dashboard includes:
 * `Adidas_Dashboard.xlsx` → Interactive Excel Dashboard
 * `README.md` → Project Documentation
 * `adidas_dashboard_report.pdf` → Full Analysis Report
-
-👉 Do you want me to **generate this README.md file** and give it to you as a downloadable file, or just keep it as text for you to copy into GitHub?
